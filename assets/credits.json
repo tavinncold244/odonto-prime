@@ -1,0 +1,50 @@
+[
+    {
+        "file":  "assets/panoramicabanzae.jpg",
+        "media":  "image",
+        "ref":  "commons:78578964",
+        "title":  "Panoramicabanzaê",
+        "creator":  "Cauê M.N.A",
+        "creatorUrl":  null,
+        "date":  "2019-05-01",
+        "license":  "CC BY-SA 4.0",
+        "licenseCode":  "by-sa",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0",
+        "creditRequired":  true,
+        "page":  "https://commons.wikimedia.org/wiki/File:Panoramicabanza%C3%AA.jpg",
+        "via":  "Wikimedia Commons",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/f/ff/Panoramicabanza%C3%AA.jpg",
+        "width":  720,
+        "height":  478,
+        "bytes":  95881,
+        "credit":  "\"Panoramicabanzaê\" by Cauê M.N.A, CC BY-SA 4.0, via Wikimedia Commons",
+        "notes":  [
+                      "Share-alike: an altered version (recoloured, combined with other pictures) must be shared under the same licence."
+                  ],
+        "saved":  "2026-10-30T12:50:35.322Z"
+    },
+    {
+        "file":  "assets/belezasnaturaisbanzae7.jpg",
+        "media":  "image",
+        "ref":  "commons:78578955",
+        "title":  "Belezasnaturaisbanzaê7",
+        "creator":  "Cauê M.N.A",
+        "creatorUrl":  null,
+        "date":  "2019-05-01",
+        "license":  "CC BY-SA 4.0",
+        "licenseCode":  "by-sa",
+        "licenseUrl":  "https://creativecommons.org/licenses/by-sa/4.0",
+        "creditRequired":  true,
+        "page":  "https://commons.wikimedia.org/wiki/File:Belezasnaturaisbanza%C3%AA7.jpg",
+        "via":  "Wikimedia Commons",
+        "image":  "https://upload.wikimedia.org/wikipedia/commons/6/61/Belezasnaturaisbanza%C3%AA7.jpg",
+        "width":  720,
+        "height":  478,
+        "bytes":  82655,
+        "credit":  "\"Belezasnaturaisbanzaê7\" by Cauê M.N.A, CC BY-SA 4.0, via Wikimedia Commons",
+        "notes":  [
+                      "Share-alike: an altered version (recoloured, combined with other pictures) must be shared under the same licence."
+                  ],
+        "saved":  "2026-10-30T12:50:36.600Z"
+    }
+]
